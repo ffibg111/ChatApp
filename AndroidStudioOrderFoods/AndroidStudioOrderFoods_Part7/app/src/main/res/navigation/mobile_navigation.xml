@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.example.androideatit.ui.home.HomeFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_home"/>
+
+    <action
+        android:id="@+id/to_cart"
+        app:destination="@id/nav_cart"
+        app:popUpTo="@+id/nav_cart"
+        app:popUpToInclusive="true"/>
+
+    <fragment
+        android:id="@+id/nav_cart"
+        android:name="com.example.androideatit.ui.cart.CartFragment"
+        android:label="@string/menu_cart"
+        tools:layout="@layout/fragment_cart"
+        />
+
+    <fragment
+        android:id="@+id/nav_order"
+        android:name="com.example.androideatit.ui.order.OrderFragment"
+        android:label="@string/menu_order"
+        tools:layout="@layout/fragment_order"
+        />
+
+    <fragment
+        android:id="@+id/nav_log_out"
+        android:name="com.example.androideatit.ui.logout.LogoutFragment"
+        android:label="@string/menu_log_out"
+        tools:layout="@layout/fragment_logout"
+        />
+
+</navigation>

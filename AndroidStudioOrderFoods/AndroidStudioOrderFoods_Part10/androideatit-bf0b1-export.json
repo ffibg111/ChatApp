@@ -1,0 +1,520 @@
+{
+  "Category" : {
+    "01" : {
+      "image" : "https://mk0theadventurexqwh1.kinstacdn.com/wp-content/uploads/Finger-Food-Ideas_-34.jpg",
+      "name" : "FINGER FOODS"
+    },
+    "02" : {
+      "image" : "https://cdn-image.myrecipes.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/image/recipes/su/07/01/tortilla-soup-su-1571536-x.jpg",
+      "name" : "WESTERN SOUPS"
+    },
+    "03" : {
+      "Image" : "https://jeanieandluluskitchen.com/wp-content/uploads/2017/02/DSC_0756.jpg",
+      "Name" : "EASTERN SOUPS"
+    },
+    "04" : {
+      "Image" : "https://www.bbcgoodfood.com/sites/default/files/recipe-collections/collection-image/2013/05/egg-cress-club-sandwich_0.jpg",
+      "Name" : "SANDWICHES"
+    },
+    "05" : {
+      "Image" : "https://i2.wp.com/metro.co.uk/wp-content/uploads/2015/07/triple_cheese_covered_stuffed_crust.jpg",
+      "Name" : "PIZZA"
+    },
+    "06" : {
+      "Image" : "https://realhousemoms.com/wp-content/uploads/One-Pot-Alfredo-Pasta-IG.jpg",
+      "Name" : "PASTA"
+    },
+    "07" : {
+      "Image" : "https://diethood.com/wp-content/uploads/2018/11/Oven-Baked-Chicken-24.jpg",
+      "Name" : "CHICKEN"
+    },
+    "08" : {
+      "Image" : "https://cdn-prod.medicalnewstoday.com/content/images/hero/322/322493/322493_1100.jpg",
+      "Name" : "FISH"
+    },
+    "09" : {
+      "Image" : "https://www.seriouseats.com/images/2015/02/20150206-braised-tofu-mushrooms-shao-z-8.jpg",
+      "Name" : "CHINESE VEGETARIAN"
+    },
+    "10" : {
+      "Image" : "https://www.kindmeal.my/photos/deal/3/358-1025-l.jpg",
+      "Name" : "MEDIFOODS DELIGHTS"
+    },
+    "11" : {
+      "Image" : "https://img.taste.com.au/qkpdNW-l/w720-h480-cfill-q80/taste/2019/06/cheesy-keto-snacks-150747-2.jpg",
+      "Name" : "SNACKS"
+    },
+    "-Lokj1a1fr_wBgcPG4mk" : {
+      "image" : "https://firebasestorage.googleapis.com/v0/b/androideatit-bf0b1.appspot.com/o/images%2F706e09ac-47d5-4f4c-8c21-2c8c711e3308?alt=media&token=30247373-d8e1-476d-b196-f12e43a88582",
+      "name" : "Woverine"
+    }
+  },
+  "Foods" : {
+    "01" : {
+      "Description" : "A guaranteed crowd-pleaser, these zesty appetizers are a great way to pep up a party! The recipe won a blue ribbon at the county fair, and even though I always double the recipe, I never seem to make enough. —Dana Gonzalez del Valle, Battle Ground, Washington",
+      "Discount" : "0",
+      "Image" : "https://www.tasteofhome.com/wp-content/uploads/2018/05/Zippy-Party-Roll-Ups_EXPS_SDJJ18_23376_C02_16_4b.jpg",
+      "MenuId" : "01",
+      "Name" : "Zippy Party Roll-Ups",
+      "Price" : "100"
+    },
+    "02" : {
+      "Description" : "Our Test Kitchen staff, many of whom are busy parents themselves, came up with this fresh and fruity summer snack idea. It's easy to make ahead and carry to the ballpark, beach or playground, and the cinnamon-spiced yogurt dip adds a fun touch kids love. —Taste of Home Test Kitchen.",
+      "Discount" : "0",
+      "Image" : "https://www.tasteofhome.com/wp-content/uploads/2017/10/Fruit-and-Cheese-Kabobs_EXPS_HCA18_32204_C03_14_3b-1.jpg",
+      "MenuId" : "01",
+      "Name" : "Fruit and Cheese Kabobs",
+      "Price" : "100"
+    },
+    "03" : {
+      "Description" : "For a light bite, Elaine Sweet created these pretty appetizers. This is a delicious twist on traditional bruschetta.",
+      "Discount" : "0",
+      "Image" : "https://www.tasteofhome.com/wp-content/uploads/2018/01/Asparagus-Bruschetta_EXPS_CWAM18_32567_C12_13_9b-2-9-696x696.jpg",
+      "MenuId" : "01",
+      "Name" : "Asparagus Bruschetta",
+      "Price" : "100"
+    },
+    "05" : {
+      "Description" : "These easy shrimp look impressive on a buffet table and taste even better! The zesty sauce has a wonderful spicy citrus flavor. I especially like this recipe because I can prepare it ahead of time. —Mary Jane Guest, Alamosa, Colorado",
+      "Discount" : "0",
+      "Image" : "https://www.tasteofhome.com/wp-content/uploads/2018/01/Zesty-Marinated-Shrimp_EXPS_MTCBBZ17_16005_D02_24_4b-696x696.jpg",
+      "MenuId" : "01",
+      "Name" : "Zesty Marinated Shrimp",
+      "Price" : "100"
+    },
+    "06" : {
+      "Description" : "The charm of this Tortilla Soup lies in the toppings, which guests can customize to their liking. This soup recipe is a simple, yet popular weeknight dinner favorite that will never disappoint on a chilly winter evening. It's the perfect touch of spice to add some excitement to your dinner routine. This soup can be as rich or as simple as you want it to be.  It can be made as a crock pot soup recipe or with a regular large soup pot.",
+      "Discount" : "0",
+      "Image" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fimage%2Frecipes%2Fsu%2F07%2F01%2Ftortilla-soup-su-1571536-x.jpg",
+      "MenuId" : "02",
+      "Name" : "Tortilla Soup Tortilla Soup",
+      "Price" : "100"
+    },
+    "07" : {
+      "Description" : "Here's how to make some masala magic–on the healthy side. With the right seasonings, a potentially plain bowl of legumes becomes supremely flavorful and comforting. The broccolini is not at all traditional to India–but delicious.",
+      "Discount" : "0",
+      "Image" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fimage%2Frecipes%2Fsu%2F12%2F02%2Fbroccolini-chickpea-dal-su-x.jpg",
+      "MenuId" : "02",
+      "Name" : "Broccolini and Chickpea Dal",
+      "Price" : "100"
+    },
+    "08" : {
+      "Description" : "Serve this lively soup, a fine showcase for Dungeness crab, to brighten up a winter day.",
+      "Discount" : "0",
+      "Image" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fimage%2Frecipes%2Fsu%2F08%2F01%2Fcarrot-soup-su-1694243-x.jpg",
+      "MenuId" : "02",
+      "Name" : "Carrot Soup with Dungeness Crab",
+      "Price" : "100"
+    },
+    "09" : {
+      "Description" : "This spicy Chicken Laksa is a Malaysian soup that may have a long list of ingredients, but it's super easy. Malaysian kitchens weave Chinese, Indian, and Malay culinary strands into a complex cuisine.",
+      "Discount" : "0",
+      "Image" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fimage%2Frecipes%2Fsu%2F11%2F01%2Fchicken-laksa-su-x.jpg",
+      "MenuId" : "02",
+      "Name" : "Chicken Laksa",
+      "Price" : "100"
+    },
+    "10" : {
+      "Description" : "Bacon, fire-roasted tomatoes, and spicy smoked paprika give this easy-to-make chili recipe a deep, complex flavor. While it's great right after you make it, it's even better the next day. Serve with warm cornbread for a complete meal.",
+      "Discount" : "0",
+      "Image" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fsmoky-beef-bacon-chili-su.jpg",
+      "MenuId" : "02",
+      "Name" : "Smoky Beef-and-Bacon Chili",
+      "Price" : "100"
+    },
+    "11" : {
+      "Description" : "You are here: Home / Recipes / Pureed Red Lentil Soup January 4, 2018 PUREED RED LENTIL SOUP Share away! 410 SHARES Share Tweet Pin This red lentil soup recipe is based on the best lentil soup EVER from a local Turkish restaurant. Seasoned with herbs and spices — including mint and smoked paprika — this pureed soup recipe is bound to become your new favorite comfort food.",
+      "Discount" : "0",
+      "Image" : "https://www.goodinthesimple.com/wp-content/uploads/2018/01/turkish-red-lentil-soup.jpg",
+      "MenuId" : "03",
+      "Name" : "PUREED LENTIL SOUP",
+      "Price" : "100"
+    },
+    "12" : {
+      "Description" : "Lentils and raisins are present on Italian tables because they resemble coins and swell when cooked. They’re usually accompanied by pork, a symbol of prosperity and abundance. This is an easy, robust vegetarian soup that tastes almost meaty. The rosemary in the bouquet garni contributes a savory, earthy flavor.",
+      "Discount" : "0",
+      "Image" : "https://static01.nyt.com/images/2009/12/28/health/nutrition/28recipe-health-lentil-soup/28recipe-health-lentil-soup-articleLarge-v3.jpg",
+      "MenuId" : "03",
+      "Name" : "LENTIL AND TOMATO SOUP",
+      "Price" : "100"
+    },
+    "13" : {
+      "Description" : "This Lebanese Lentil Soup with Lemon and Noodles is one of those family favorites. I would venture to guess most Lebanese families make a variation of this easy lentil soup recipe. My mother-in-law passed the recipe down to me, and I know it was passed down to her. I probably make it at least twice a month.",
+      "Discount" : "0",
+      "Image" : "https://i1.wp.com/www.adishofdailylife.com/wp-content/uploads/2014/10/lentils-squar.jpg",
+      "MenuId" : "03",
+      "Name" : "LENTIL AND VERMICELLI SOUP",
+      "Price" : "100"
+    },
+    "14" : {
+      "Description" : "This bean soup can be made in 45 minutes. Substitute vegetable broth to create a vegetarian alternative.",
+      "Discount" : "0",
+      "Image" : "https://images.media-allrecipes.com/userphotos/720x405/4014856.jpg",
+      "MenuId" : "03",
+      "Name" : "CHICKPEA SOUP",
+      "Price" : "100"
+    },
+    "15" : {
+      "Description" : "This Chickpea Tomato Soup is an easy, hearty soup, loaded with chickpeas and vegetables in every bite. Stove, slow cooker and Instant Pot directions provided.",
+      "Discount" : "0",
+      "Image" : "https://www.skinnytaste.com/wp-content/uploads/2016/12/Chickpea-Tomato-Soup-1-2.jpg",
+      "MenuId" : "03",
+      "Name" : "TOMATO AND CHICKPEA SOUP",
+      "Price" : "100"
+    },
+    "16" : {
+      "Description" : "An oyster loaf served unadorned, the way Joe Casamento insisted it should be. Get the recipe for Casamento's Fried Oyster Loaf Sandwich",
+      "Discount" : "0",
+      "Image" : "https://www.saveur.com/resizer/brmT0dEU4Q3pHEDMiw-X4dt4re0=/1551x1164/filters:focal(750x563:751x564)/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/F57K4G6ATFG5XLMFFQKSUHQUXI.jpg",
+      "MenuId" : "04",
+      "Name" : "Casamento's Fried Oyster Loaf Sandwich",
+      "Price" : "100"
+    },
+    "17" : {
+      "Description" : "The pâté and cold-cut combo might be the best-known banh mi, but it's not your only option. Get the recipe for Classic Sausage and Pâté Banh Mi",
+      "Discount" : "0",
+      "Image" : "https://www.saveur.com/resizer/gafxLwtBGFZy3vZTsidGIpG8tGo=/1551x2069/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/S5BD2CJTYJWZQOMVIYJL4JGZJ4.jpg",
+      "MenuId" : "04",
+      "Name" : "Classic Sausage and Pâté Banh Mi",
+      "Price" : "100"
+    },
+    "18" : {
+      "Description" : "Tarragon and yellow beets give this Danish open-face sandwich its unique flavor. Get the recipe for Beet Smorrebrod",
+      "Discount" : "0",
+      "Image" : "https://www.saveur.com/resizer/JLI9UDHT5xGXSc4rmoRoYR8p9qk=/1551x1164/filters:focal(983x738:984x739)/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/ZZBQ7UFEAHOHZNZ5GC64OSKGFQ.jpg",
+      "MenuId" : "04",
+      "Name" : "Beet Smorrebrod",
+      "Price" : "100"
+    },
+    "19" : {
+      "Description" : "Gooey cheese, salty cured meat, and avocado are pressed between crispy waffles at a modern café in Paris. Get the recipe for Waffle Sandwiches with Cecina, Avocado, and Arugula",
+      "Discount" : "0",
+      "Image" : "https://www.saveur.com/resizer/cfTZ6IrxYNj-WfaH4utm7DqHqH8=/1551x1164/filters:focal(750x563:751x564)/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/MVB3YIYOUA65AZBZBZDH3ZPWY4.jpg",
+      "MenuId" : "04",
+      "Name" : "Waffle Sandwiches with Cecina, Avocado, and Arugula",
+      "Price" : "100"
+    },
+    "20" : {
+      "Description" : "his hearty twist on the classic Provençal pressed sandwich pan bagnat combines black olive tapenade, goat cheese, roasted chicken, and thinly sliced vegetables. Make it at least two to three hours before you plan to serve it to really let the flavors marry. Get the recipe for Roast Chicken Pan Bagnat with Olive Tapenade and Goat Cheese.",
+      "Discount" : "0",
+      "Image" : "https://www.saveur.com/resizer/RB7CCFlBX1FyVXEIwrS9GCkUQk4=/1551x1164/filters:focal(1000x750:1001x751)/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/JN3V5Y42W5PDVEFCR5GGJ7THKQ.jpg",
+      "MenuId" : "04",
+      "Name" : "Roast Chicken Pan Bagnat with Olive Tapenade and Goat Cheese",
+      "Price" : "100"
+    },
+    "21" : {
+      "Description" : "Delicious melting thick crush, makes you want to eat it all!",
+      "Discount" : "0",
+      "Image" : "https://www.pizzahut.com/assets/w/images/homepage_deal/StuffedCrust_DealSK_Desktop.jpg",
+      "MenuId" : "05",
+      "Name" : "STUFFED CRUST PIZZA",
+      "Price" : "100"
+    },
+    "22" : {
+      "Description" : "Delicious melting cheese, makes you want to eat it all!",
+      "Discount" : "0",
+      "Image" : "https://www.pizzahut.com/assets/w/tile/thor/pizza_Cheese.png",
+      "MenuId" : "05",
+      "Name" : "Cheese Pizza",
+      "Price" : "100"
+    },
+    "23" : {
+      "Description" : "Delicious meaty pepperoni, makes you want to eat it all!",
+      "Discount" : "0",
+      "Image" : "https://www.pizzahut.com/assets/w/tile/thor/pizza_Pepperoni.png",
+      "MenuId" : "05",
+      "Name" : "Pepperoni Pizza",
+      "Price" : "100"
+    },
+    "24" : {
+      "Description" : "Delicious combination or meat and pepperoni, makes you want to eat it all!",
+      "Discount" : "0",
+      "Image" : "https://www.pizzahut.com/assets/w/tile/thor/pizza_Meat_Lovers.png",
+      "MenuId" : "05",
+      "Name" : "Meat Lover's® Pizza",
+      "Price" : "100"
+    },
+    "25" : {
+      "Description" : "Delicious supreme pizza with combination of vegies, meat, cheese and pepperoni, makes you want to eat it all!",
+      "Discount" : "0",
+      "Image" : "https://www.pizzahut.com/assets/w/tile/thor/pizza_Supreme.png",
+      "MenuId" : "05",
+      "Name" : "Supreme Pizza",
+      "Price" : "100"
+    },
+    "26" : {
+      "Description" : "A rich and creamy lightened up alfredo sauce that’s so easy to make, and it tastes just as good as the original!",
+      "Discount" : "0",
+      "Image" : "https://s23209.pcdn.co/wp-content/uploads/2014/01/Skinny-Fettuccine-Alfredo.jpg",
+      "MenuId" : "06",
+      "Name" : "Low-Cal Fettuccine Alfredo",
+      "Price" : "100"
+    },
+    "27" : {
+      "Description" : "This shrimp scampi linguine has a dash of red pepper to add a bit of extra heat to this classic dinner entrée.",
+      "Discount" : "0",
+      "Image" : "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2009/1/13/1/vday_shrimpscampi_4493_s4x3.jpg.rend.hgtvcom.826.620.suffix/1431856620923.jpeg",
+      "MenuId" : "06",
+      "Name" : "Shrimp Scampi with Linguini",
+      "Price" : "100"
+    },
+    "28" : {
+      "Description" : "Lo Scoglio in Positano, Italy, is one of Katie Lee's favorite old restaurants. After a recent trip to the Amalfi Coast, she came home with the best possible souvenir: a recipe for Lo Scoglio's famous zucchini pasta.",
+      "Discount" : "0",
+      "Image" : "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2015/1/15/1/FNM_030115-Spaghetti-with-Zucchini-Recipe_s4x3.jpg.rend.hgtvcom.826.620.suffix/1422301064140.jpeg",
+      "MenuId" : "06",
+      "Name" : "Spaghetti with Zucchini",
+      "Price" : "100"
+    },
+    "29" : {
+      "Description" : "A seafood pasta from Food Network chef Giada de Laurentiis. \"If you love shellfish, you'll go for this classic dish inspired by the many versions I've eaten while visiting the Italian island of Capri. Mussels and clams are readily available at the seafood counter of most supermarkets as well as at any fish store, and, contrary to the belief of many, they're rather inexpensive.\"",
+      "Discount" : "0",
+      "Image" : "https://food.fnr.sndimg.com/content/dam/images/food/fullset/2012/2/21/0/0164559_spicy-linguine-with-shrimp-clams_s4x3.jpg.rend.hgtvcom.826.620.suffix/1371606207569.jpeg",
+      "MenuId" : "06",
+      "Name" : "Spicy Linguine with Clams and Mussels",
+      "Price" : "100"
+    },
+    "30" : {
+      "Description" : "Olive Garden Chicken Scampi Pasta copycat made with a creamy garlic white wine sauce with lemon, bell peppers and onions.",
+      "Discount" : "0",
+      "Image" : "https://dinnerthendessert.com/wp-content/uploads/2018/06/Olive-Garden-Chicken-Scampi-Pasta-Copycat-1048x1572.jpg",
+      "MenuId" : "06",
+      "Name" : "Olive Garden Chicken Scampi Pasta",
+      "Price" : "100"
+    },
+    "31" : {
+      "Description" : "The perfect marriage of smoky and sweet flavors is what you'll get when you use the outdoor grill to cook up these chicken tenders! I like to use center-cut bacon since it is leaner and less likely to cause flare-ups. I find cutting the bacon lengthwise, and then using the thin strips to wrap the bacon, is much easier than trying to wrap using a wide strip. Use your favorite BBQ rub on the chicken!",
+      "Discount" : "0",
+      "Image" : "https://images.media-allrecipes.com/userphotos/560x315/6819226.jpg",
+      "MenuId" : "07",
+      "Name" : "Grilled Bacon-Wrapped Chicken Tenders",
+      "Price" : "100"
+    },
+    "32" : {
+      "Description" : "Take your green salads to the main dish level by loading up a hearty bed of lettuce with chicken, fresh veggies, and flavorful cheeses. Essentially, never eat a boring salad again. These huge salads are a filling solution to the dinnertime dilemma and provide a bowl that is bursting with great flavor, high levels of nutrition, and beautiful color. ",
+      "Discount" : "0",
+      "Image" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fmarquee_large_2x%2Fpublic%2Fstrawberry-chicken-salad-with-pecans.jpg",
+      "MenuId" : "07",
+      "Name" : "Main-Dish Chicken Salads",
+      "Price" : "100"
+    },
+    "33" : {
+      "Description" : "Turn to these easy packed with tender chicken and bubbly melted cheese when you need to satisfy your dinner crowd.",
+      "Discount" : "0",
+      "Image" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fchicken-chilaquiles-casserole-.jpg",
+      "MenuId" : "07",
+      "Name" : "Cheesy Chicken Casseroles",
+      "Price" : "100"
+    },
+    "34" : {
+      "Description" : "and rice make perfect partners for easy, budget-friendly one-dish meals. With kid-friendly flavors and the possiblity of plenty of leftovers, these meals make great additions to your weeknight rotation as well as becoming wonderful packed lunches the next day.",
+      "Discount" : "0",
+      "Image" : "https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fcdn-image.myrecipes.com%2Fsites%2Fdefault%2Ffiles%2Fstyles%2F4_3_horizontal_-_1200x900%2Fpublic%2Fimage%2Frecipes%2Fay%2F08%2Fchicken-rice-ay-1875585-x.jpg",
+      "MenuId" : "07",
+      "Name" : "Easy Chicken and Rice",
+      "Price" : "100"
+    },
+    "35" : {
+      "Description" : "With its shatteringly crispy exterior and smoky, spicy sauce, once you try Korean-style fried chicken you might never want any other kind again.",
+      "Discount" : "0",
+      "Image" : "https://cdn-image.myrecipes.com/sites/default/files/styles/4_3_horizontal_-_1200x900/public/koreanchicken.jpg?itok=2vQO04IX",
+      "MenuId" : "07",
+      "Name" : "Korean Fried Chicken",
+      "Price" : "100"
+    },
+    "36" : {
+      "Description" : "Served Cajun style or with garlic butter sauce. Includes toasted garlic bread and choice of 2 sides.",
+      "Discount" : "0",
+      "Image" : "https://www.tasteofhome.com/wp-content/uploads/2017/11/Salmon-with-Root-Vegetables_EXPS_THD17_188340_B08_11_6b-1-696x696.jpg",
+      "MenuId" : "08",
+      "Name" : "Salmon Wild Caught",
+      "Price" : "100"
+    },
+    "37" : {
+      "Description" : "French fries traditionally accompany deep-fried cod, often on the menu as fish and chips. But you could mix things up a bit by serving french-fried sweet potatoes, a baked sweet potato or mashed potatoes instead.",
+      "Discount" : "0",
+      "Image" : "https://previews.123rf.com/images/myviewpoint/myviewpoint1703/myviewpoint170300130/74679271-delicious-crispy-fish-and-chips-fried-cod-french-fries-lemon-slices-tartar-sauce-and-mushy-peas-on-p.jpg",
+      "MenuId" : "08",
+      "Name" : "COD Fish Dinner",
+      "Price" : "100"
+    },
+    "38" : {
+      "Description" : "Grilled whole fish with Italian bread salad is the perfect summer recipe. Juicy flesh is hidden ...",
+      "Discount" : "0",
+      "Image" : "https://www.happyfoodstube.com/wp-content/uploads/2017/06/grilled-whole-fish-with-italian-bread-salad-picture.jpg",
+      "MenuId" : "08",
+      "Name" : "Grilled Whole Fish with Italian Bread Salad",
+      "Price" : "100"
+    },
+    "39" : {
+      "Description" : "Ditch the tortilla and make your own taco-seasoned shrimp salad with a lime marinade and creamy ...",
+      "Discount" : "0",
+      "Image" : "https://res.cloudinary.com/paleoleap/image/upload/f_auto,q_70/v1472630880/j-paleo/taco-lime-shrimp-salad-main.jpg",
+      "MenuId" : "08",
+      "Name" : "Taco Lime Shrimp Salad Recipe",
+      "Price" : "100"
+    },
+    "40" : {
+      "Description" : "This Basil Avocado Shrimp Salad Lettuce Wraps from Delish.com comes complete with their favorite shrim sauce makes it unforgettable.",
+      "Discount" : "0",
+      "Image" : "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-basil-avocado-shrimp-salad-lettuce-wraps-with-sweet-potato-chips-011-1544813553.jpg",
+      "MenuId" : "08",
+      "Name" : "Basil Avocado Shrimp Salad Wraps & Sweet Potato Chips",
+      "Price" : "100"
+    },
+    "41" : {
+      "Description" : "Not only are these garlic noodles super-fast to get on your table, but the lightly-charred texture combined with the savory sauce of ginger and garlic is something you’ll crave. The recipe can be adapted for vegetarian eaters as well as gluten-free too.",
+      "Discount" : "0",
+      "Image" : "https://omnivorescookbook.com/wp-content/uploads/2018/11/1807_Chinese-Garlic-Noodles_002.jpg",
+      "MenuId" : "09",
+      "Name" : "15-Minute Garlic Noodles",
+      "Price" : "100"
+    },
+    "42" : {
+      "Description" : "Love General Tso’s Chicken but want a meatless option? Here’s a fabulous recipe that uses tofu instead. Best of all, the tofu comes out extra crispy while using a small amount of oil. The sauce is vegan and gluten-free, perfect for anyone to enjoy!",
+      "Discount" : "0",
+      "Image" : "https://omnivorescookbook.com/wp-content/uploads/2018/11/1612_General-Tso-Tofu_001.jpg",
+      "MenuId" : "09",
+      "Name" : "General Tso Tofu (Crispy Tofu)",
+      "Price" : "100"
+    },
+    "43" : {
+      "Description" : "Hot and Sour Soup is one of the best things from China, but you can make it in your own kitchen for less. This recipe even includes customizable ingredient options so you can make it exactly the way you want it. You can also adapt it for vegan eating.",
+      "Discount" : "0",
+      "Image" : "https://omnivorescookbook.com/wp-content/uploads/2018/11/1702_Vegetarian-Hot-and-Sour-Soup_002.jpg",
+      "MenuId" : "09",
+      "Name" : "Vegetarian Hot and Sour Soup",
+      "Price" : "100"
+    },
+    "44" : {
+      "Description" : "Short on time but ravenously hungry? This vegetarian Chinese recipe gives you the best fried rice you’ve ever had that takes just 10 minutes to throw together. Why wait for the delivery guy?",
+      "Discount" : "0",
+      "Image" : "https://omnivorescookbook.com/wp-content/uploads/2018/11/1802_Vegetable-Fried-Rice_001.jpg",
+      "MenuId" : "09",
+      "Name" : "Vegetable Fried Rice",
+      "Price" : "100"
+    },
+    "45" : {
+      "Description" : "These creamy and dreamy pillows of dumplings stuffed with cheese and spinach are going to be your new favorite. Who needs meat with this vegetarian Chinese recipe?",
+      "Discount" : "0",
+      "Image" : "https://omnivorescookbook.com/wp-content/uploads/2018/11/1710_Nepali-Momo-With-Spinach-And-Ricotta_001.jpg",
+      "MenuId" : "09",
+      "Name" : "Nepali Momos with Spinach and Ricotta",
+      "Price" : "100"
+    },
+    "46" : {
+      "Description" : "Favourite pasta time peeps! Also featuring my favourite veggie – mushrooms in this 15 minute mushroom spaghetti aglio olio.",
+      "Discount" : "0",
+      "Image" : "https://www.kindmeal.my/photos/item/0/498-6312-l.jpg",
+      "MenuId" : "10",
+      "Name" : "Aglio Olio Mushroom Spaghetti",
+      "Price" : "100"
+    },
+    "47" : {
+      "Description" : "Enjoy a bowl full of traditional Korean flavor with this tasty, satisfying, all-in-one entree that's ..",
+      "Discount" : "0",
+      "Image" : "https://simpleseasonal.com/wp-content/uploads/2018/02/korean-bibimbap-bowl.jpg",
+      "MenuId" : "10",
+      "Name" : "Korean Bowl",
+      "Price" : "100"
+    },
+    "48" : {
+      "Description" : "Easy Vietnamese-Style Noodle Bowls with Chicken are the perfect meal in a bowl. Made with vermicelli rice noodles, chicken, fresh herbs and vegetables, and a tangy rice vinegar dressing.",
+      "Discount" : "0",
+      "Image" : "https://www.simplyrecipes.com/wp-content/uploads/2017/06/2017-07-19-ChickenNoodleBowls-7-768x1075.jpg",
+      "MenuId" : "10",
+      "Name" : "Vietnamese-Style Noodle Bowls with Chicken",
+      "Price" : "100"
+    },
+    "49" : {
+      "Description" : "Chicken Bacon Roulades—chicken breasts, pounded thin, stuffed with bacon, shallots, and Parmesan, rolled up, browned, roasted, then served sliced, with a creamy white sauce.",
+      "Discount" : "0",
+      "Image" : "https://www.simplyrecipes.com/wp-content/uploads/2007/09/chicken-bacon-roulades-horiz-a-1400-1024x682.jpg",
+      "MenuId" : "10",
+      "Name" : "Chicken Roulade",
+      "Price" : "100"
+    },
+    "50" : {
+      "Description" : "Chicken Rendang, or Rendang Ayam is a lip-smacking Indonesian dry curry that's loaded with tender chicken simmered with a spice paste and coconut milk until there's almost no sauce left. At this point, the remaining sauce is caramelize around the chicken along with roasted coconut to create an ultra-flavorful coating around each piece of chicken.",
+      "Discount" : "0",
+      "Image" : "https://norecipes.com/wp-content/uploads/2017/10/chicken-rendang-11.jpg",
+      "MenuId" : "10",
+      "Name" : "Rendang Chicken",
+      "Price" : "100"
+    },
+    "51" : {
+      "Description" : "Delicious crispy fish and chips - fried cod, french fries, lemon slices, tartar sauce and mushy peas on plate on paper. parsley and lemon wedges on wooden table, view from above, close-up",
+      "Discount" : "0",
+      "Image" : "https://previews.123rf.com/images/myviewpoint/myviewpoint1703/myviewpoint170300122/74627518-delicious-crispy-fish-and-chips-fried-cod-french-fries-lemon-slices-tartar-sauce-and-mushy-peas-on-p.jpg",
+      "MenuId" : "11",
+      "Name" : "Crispy fish and chips",
+      "Price" : "110"
+    },
+    "52" : {
+      "Description" : "Above view fried fish fillet with french fries wrapped by paper cone, on bright wooden background.",
+      "Discount" : "0",
+      "Image" : "https://previews.123rf.com/images/szefei/szefei1508/szefei150800046/43590826-fish-and-chips-above-view-fried-fish-fillet-with-french-fries-wrapped-by-paper-cone-on-bright-wooden.jpg",
+      "MenuId" : "11",
+      "Name" : "Fish and chips",
+      "Price" : "110"
+    },
+    "53" : {
+      "Description" : "This is a healthy and tasty snack that I feed to my kids often. They love it!—Cindy Reams, Phillipsburg, Pennsylvania",
+      "Discount" : "0",
+      "Image" : "https://www.tasteofhome.com/wp-content/uploads/2018/01/exps190254_EDSC163648B01_27_10b.jpg",
+      "MenuId" : "11",
+      "Name" : "Quinoa Granola",
+      "Price" : "110"
+    },
+    "54" : {
+      "Description" : "What goes together better than beer and pretzels? Not much that I can think of. That’s why I put them together into one recipe. I’m always looking for new ways to combine fun flavors. I love the way this recipe turned out! —Alyssa Wilhite, Whitehouse, Texas",
+      "Discount" : "0",
+      "Image" : "https://www.tasteofhome.com/wp-content/uploads/2018/05/Based_On_Soft-Beer-Pretzels_EXPS_THSO18_114654_D01_25_7b.jpg",
+      "MenuId" : "11",
+      "Name" : "Soft Beer Pretzel Nuggets",
+      "Price" : "110"
+    },
+    "55" : {
+      "Description" : "My crowd-pleasing party mix is buttery, chocolaty and nutty. The recipe yields a party-size portion, but I recommend keeping it covered so it doesn’t disappear before the event. —Annette Niemiec, Scottsdale, Arizona",
+      "Discount" : "0",
+      "Image" : "https://www.tasteofhome.com/wp-content/uploads/2017/10/exps47322_HCA153382B10_17_6b.jpg",
+      "MenuId" : "11",
+      "Name" : "Chocolate Pecan Pie Snack Mix",
+      "Price" : "110"
+    }
+  },
+  "Requests" : {
+    "1568075257528" : {
+      "address" : "1234 Test St, AA, CA",
+      "foods" : [ {
+        "discount" : "0",
+        "price" : "100",
+        "productId" : "02",
+        "productName" : "Fruit and Cheese Kabobs",
+        "qty" : "1"
+      }, {
+        "discount" : "0",
+        "price" : "100",
+        "productId" : "12",
+        "productName" : "LENTIL AND TOMATO SOUP",
+        "qty" : "1"
+      } ],
+      "name" : "Chinh",
+      "phone" : "6570001111",
+      "status" : "0",
+      "total" : "$200.00"
+    }
+  },
+  "User" : {
+    "6570001111" : {
+      "IsStaff" : "true",
+      "name" : "Chinh",
+      "password" : "12345"
+    },
+    "6570001112" : {
+      "IsStaff" : "false",
+      "name" : "Cindy",
+      "password" : "12345"
+    }
+  }
+}
