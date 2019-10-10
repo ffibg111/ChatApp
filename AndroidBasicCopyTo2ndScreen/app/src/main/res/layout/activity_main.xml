@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/backToMainScrnButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Copy to next screen"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.948"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mainContentTextView"
+        app:layout_constraintVertical_bias="0.369" />
+
+    <TextView
+        android:id="@+id/mainHeadLineTextView"
+        android:layout_width="387dp"
+        android:layout_height="97dp"
+        android:text="EXCLUSIVE: OFFICIAL WHO HEARD CALL SAYS TRUMP GOT 'ROLLED' BY TURKEY AND 'HAS NO SPINE'"
+        android:textSize="24sp"
+        android:textStyle="bold|italic"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mainImageView" />
+
+    <TextView
+        android:id="@+id/mainContentTextView"
+        android:layout_width="385dp"
+        android:layout_height="217dp"
+        android:text="President Donald Trump returns to the White House after visiting Walter Reed National Military Medical Center on October 04, 2019 in Washington, D.C. In a White House statement released late Sunday evening, Turkey will soon be moving forward with its long-planned operation against American-backed Kurdish forces in Northern Syria. The U.S. military forces will not support or be involved in the operation.
+CHIP SOMODEVILLA/GETTY."
+        android:textColor="#A0A0A0"
+        android:textSize="14sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/mainHeadLineTextView" />
+
+    <ImageView
+        android:id="@+id/mainImageView"
+        android:layout_width="401dp"
+        android:layout_height="277dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/turkey" />
+</androidx.constraintlayout.widget.ConstraintLayout>
